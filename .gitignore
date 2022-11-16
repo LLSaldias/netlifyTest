@@ -1,0 +1,11 @@
+*.gem
+test/dummy/tmp/*
+test/dummy/log/*
+test/dummy/public/assets/*
+*.lock
+.DS_Store
+vendor/ruby
+.bundle
+coverage
+.ruby-version
+/.idea
